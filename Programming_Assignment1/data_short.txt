@@ -1,0 +1,20 @@
+Latvia,1991800,64559,lv,Europe
+South Sudan,11384393,619745,en,Africa
+Egypt,87668100,1002450,ar,Africa
+Guinea-Bissau,1746000,36125,pt,Africa
+Zimbabwe,13061239,390757,en,Africa
+Mali,15768000,1240192,fr,Africa
+Portugal,10477800,92090,pt,Europe
+New Zealand,4547900,270467,en,Oceania
+Croatia,4267558,56594,hr,Europe
+Nauru,10084,21,en,Oceania
+Estonia,1315819,45227,et,Europe
+Libya,6253000,1759540,ar,Africa
+Sierra Leone,6205000,71740,en,Africa
+Denmark,5655750,43094,da,Europe
+Tuvalu,11323,26,en,Oceania
+Chad,13211000,1284000,fr,Africa
+Tonga,103252,747,en,Oceania
+Niger,17138707,1267000,fr,Africa
+Benin,9988068,112622,fr,Africa
+Penguin Land,0,14200000,penguin_language,Antarctica

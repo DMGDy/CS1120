@@ -1,0 +1,173 @@
+Afghanistan,26023100,652230,ps,Asia
+Albania,2895947,28748,sq,Europe
+Algeria,38700000,2381741,ar,Africa
+Angola,24383301,1246700,pt,Africa
+Argentina,42669500,2780400,es,Americas
+Armenia,3009800,29743,hy,Asia
+Australia,23696900,7692024,en,Oceania
+Austria,8527230,83871,de,Europe
+Azerbaijan,9552500,86600,az,Asia
+Bahrain,1316500,765,ar,Asia
+Bangladesh,157486000,147570,bn,Asia
+Barbados,285000,430,en,Americas
+Belarus,9475100,207600,be,Europe
+Belgium,11225469,30528,nl,Europe
+Belize,349728,22966,en,Americas
+Benin,9988068,112622,fr,Africa
+Bhutan,755030,38394,dz,Asia
+Bolivia,10027254,1098581,es,Americas
+Botswana,2024904,582000,en,Africa
+Brazil,203586000,8515767,pt,Americas
+Brunei,393372,5765,ms,Asia
+Bulgaria,7245677,110879,bg,Europe
+Burundi,9530434,27834,fr,Africa
+Cambodia,15184116,181035,km,Asia
+Cameroon,20386799,475442,en,Africa
+Canada,35540419,9984670,en,Americas
+Cape Verde,518467,4033,pt,Africa
+Chad,13211000,1284000,fr,Africa
+Chile,17819054,756102,es,Americas
+China,1367110000,9640011,zh,Asia
+Colombia,47907800,1141748,es,Americas
+Comoros,763952,1862,ar,Africa
+Costa Rica,4713168,51100,es,Americas
+Croatia,4267558,56594,hr,Europe
+Cuba,11210064,109884,es,Americas
+Cyprus,858000,9251,el,Europe
+Czech Republic,10521600,78865,cs,Europe
+Denmark,5655750,43094,da,Europe
+Djibouti,886000,23200,fr,Africa
+Dominica,71293,751,en,Americas
+Dominican Republic,10378267,48671,es,Americas
+East Timor,1172390,14874,pt,Asia
+Ecuador,15888900,276841,es,Americas
+Egypt,87668100,1002450,ar,Africa
+El Salvador,6401240,21041,es,Americas
+Equatorial Guinea,1430000,28051,es,Africa
+Eritrea,6536000,117600,ti,Africa
+Estonia,1315819,45227,et,Europe
+Ethiopia,87952991,1104300,am,Africa
+Fiji,859178,18272,en,Oceania
+Finland,5470437,338424,fi,Europe
+France,66078000,640679,fr,Europe
+Gabon,1711000,267668,fr,Africa
+Georgia,4490500,69700,ka,Asia
+Germany,80783000,357114,de,Europe
+Ghana,27043093,238533,en,Africa
+Greece,10992589,131990,el,Europe
+Grenada,103328,344,en,Americas
+Guatemala,15806675,108889,es,Americas
+Guinea,10628972,245857,fr,Africa
+Guinea-Bissau,1746000,36125,pt,Africa
+Guyana,784894,214969,en,Americas
+Haiti,10745665,27750,fr,Americas
+Honduras,8725111,112492,es,Americas
+Hungary,9879000,93028,hu,Europe
+Iceland,328170,103000,is,Europe
+India,1263930000,3287590,hi,Asia
+Indonesia,252164800,1904569,id,Asia
+Iran,77966400,1648195,fa,Asia
+Iraq,36004552,438317,ar,Asia
+Israel,8268400,20770,he,Asia
+Italy,60769102,301336,it,Europe
+Ivory Coast,23821000,322463,fr,Africa
+Jamaica,2717991,10991,en,Americas
+Japan,127080000,377930,ja,Asia
+Jordan,6666960,89342,ar,Asia
+Kazakhstan,17377800,2724900,kk,Asia
+Kenya,41800000,580367,en,Africa
+Kiribati,106461,811,en,Oceania
+Kuwait,3268431,17818,ar,Asia
+Kyrgyzstan,5776570,199951,ky,Asia
+Laos,6693300,236800,lo,Asia
+Latvia,1991800,64559,lv,Europe
+Lebanon,4104000,10452,ar,Asia
+Lesotho,2098000,30355,en,Africa
+Liberia,4397000,111369,en,Africa
+Libya,6253000,1759540,ar,Africa
+Liechtenstein,37132,160,de,Europe
+Lithuania,2927310,65300,lt,Europe
+Luxembourg,549700,2586,fr,Europe
+Madagascar,21842167,587041,fr,Africa
+Malawi,15805239,118484,en,Africa
+Maldives,341256,300,dv,Asia
+Mali,15768000,1240192,fr,Africa
+Malta,416055,316,mt,Europe
+Marshall Islands,56086,181,en,Oceania
+Mauritania,3545620,1030700,ar,Africa
+Mauritius,1261208,2040,en,Africa
+Mexico,119713203,1964375,es,Americas
+Moldova,3557600,33846,ro,Europe
+Monaco,36950,2,fr,Europe
+Mongolia,2987733,1564110,mn,Asia
+Morocco,33465000,446550,ar,Africa
+Mozambique,25041922,801590,pt,Africa
+Namibia,2113077,825615,en,Africa
+Nauru,10084,21,en,Oceania
+Nepal,27646053,147181,ne,Asia
+Netherlands,16881000,41850,nl,Europe
+New Zealand,4547900,270467,en,Oceania
+Nicaragua,6134270,130373,es,Americas
+Niger,17138707,1267000,fr,Africa
+Nigeria,178517000,923768,en,Africa
+Norway,5156450,323802,no,Europe
+Oman,4089076,309500,ar,Asia
+Pakistan,188410000,881912,en,Asia
+Palau,20901,459,en,Oceania
+Panama,3713312,75417,es,Americas
+Papua New Guinea,7398500,462840,en,Oceania
+Paraguay,6893727,406752,es,Americas
+Peru,30814175,1285216,es,Americas
+Philippines,100697400,342353,en,Asia
+Poland,38496000,312679,pl,Europe
+Portugal,10477800,92090,pt,Europe
+Qatar,2269672,11586,ar,Asia
+Romania,19942642,238391,ro,Europe
+Russia,146233000,17124442,ru,Europe
+Rwanda,10996891,26338,rw,Africa
+Samoa,187820,2842,sm,Oceania
+San Marino,32743,61,it,Europe
+Saudi Arabia,30770375,2149690,ar,Asia
+Senegal,13508715,196722,fr,Africa
+Serbia,7186862,49037,rs,Europe
+Seychelles,89949,452,fr,Africa
+Sierra Leone,6205000,71740,en,Africa
+Singapore,5469700,710,en,Asia
+Slovakia,5415949,49037,sk,Europe
+Slovenia,2064966,20273,sl,Europe
+Solomon Islands,581344,28896,en,Oceania
+Somalia,10806000,637657,so,Africa
+South Africa,54002000,1221037,af,Africa
+South Sudan,11384393,619745,en,Africa
+Spain,46507760,505992,es,Europe
+Sri Lanka,20277597,65610,si,Asia
+Sudan,37289406,1886068,ar,Africa
+Suriname,534189,163820,nl,Americas
+Swaziland,1106189,17364,en,Africa
+Sweden,9737521,450295,sv,Europe
+Switzerland,8183800,41284,de,Europe
+Syria,22964324,185180,ar,Asia
+Taiwan,23424615,36193,zh,Asia
+Tajikistan,8161000,143100,tg,Asia
+Tanzania,47421786,945087,sw,Africa
+Thailand,64871000,513120,th,Asia
+Togo,6993000,56785,fr,Africa
+Tonga,103252,747,en,Oceania
+Tunisia,10982754,163610,ar,Africa
+Turkey,76667864,783562,tr,Asia
+Turkmenistan,5838064,488100,tk,Asia
+Tuvalu,11323,26,en,Oceania
+Uganda,34856813,241550,en,Africa
+Ukraine,42973696,603700,uk,Europe
+United Arab Emirates,9446000,83600,ar,Asia
+United Kingdom,64105654,242900,en,Europe
+United States,319259000,9629091,en,Americas
+Uruguay,3404189,181034,es,Americas
+Uzbekistan,30492800,447400,uz,Asia
+Vanuatu,264652,12189,bi,Oceania
+Venezuela,30206307,916445,es,Americas
+Vietnam,89708900,331212,vi,Asia
+Yemen,25956000,527968,ar,Asia
+Zambia,15023315,752612,en,Africa
+Zimbabwe,13061239,390757,en,Africa
+Eritrea,6536000,117600,ti,Africa

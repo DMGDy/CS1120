@@ -1,0 +1,20 @@
+Chile,17819054,756102,es,Americas
+Singapore,5469700,710,en,Asia
+Brunei,393372,5765,ms,Asia
+Bhutan,755030,38394,dz,Asia
+Peru,30814175,1285216,es,Americas
+Bangladesh,157486000,147570,bn,Asia
+Nicaragua,6134270,130373,es,Americas
+China,1367110000,9640011,zh,Asia
+Jamaica,2717991,10991,en,Americas
+Suriname,534189,163820,nl,Americas
+Panama,3713312,75417,es,Americas
+Oman,4089076,309500,ar,Asia
+Afghanistan,26023100,652230,ps,Asia
+Bolivia,10027254,1098581,es,Americas
+Belize,349728,22966,en,Americas
+United States,319259000,9629091,en,Americas
+Saudi Arabia,30770375,2149690,ar,Asia
+Qatar,2269672,11586,ar,Asia
+Colombia,47907800,1141748,es,Americas
+Igloo,0,500,'extinct_penguin_language',North Pole

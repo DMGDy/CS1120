@@ -1,0 +1,10 @@
+defining function to find min	{
+for each element in list
+	compare number in iteration 
+}
+n = number of elements wanted in the array
+l = empty list
+for given elements in the list:
+	inp = user input typed as int
+	add inp to empty list
+print: smallest value using built in min function in python 
